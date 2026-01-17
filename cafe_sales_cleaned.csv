@@ -1,0 +1,51 @@
+transaction_id,date,time,cafe_id,city,product_category,product_name,quantity,unit_price,total_amount,payment_method,loyalty_member
+TR_10001,2023-01-15,08:30:00,23,Boston,Coffee,Cappuccino,2,3.75,7.5,Card,Y
+TR_10002,2023-01-15,09:15:00,12,Seattle,Bakery,Blueberry Muffin,1,3.25,3.25,Cash,N
+TR_10003,2023-01-15,10:45:00,7,Austin,Tea,Green Tea,1,2.75,2.75,Mobile App,Y
+TR_10004,2023-01-15,12:30:00,34,Denver,Sandwiches,Turkey Club,1,8.5,8.5,Card,Y
+TR_10005,2023-01-15,14:15:00,18,Atlanta,Salads,Caesar Salad,1,7.25,7.25,Card,N
+TR_10006,2023-01-15,15:45:00,23,Boston,Coffee,Latte,1,4.25,4.25,Mobile App,Y
+TR_10007,2023-01-15,16:20:00,41,Seattle,Bakery,Chocolate Croissant,2,4.0,8.0,Cash,N
+TR_10008,2023-01-16,07:45:00,5,Austin,Coffee,Black Coffee,1,2.5,2.5,Card,Y
+TR_10009,2023-01-16,08:30:00,29,Denver,Sandwiches,Vegetarian Panini,1,7.75,7.75,Mobile App,Y
+TR_10010,2023-01-16,11:00:00,16,Atlanta,Tea,Chai Latte,1,3.95,3.95,Card,N
+TR_10011,2023-01-16,12:45:00,12,Seattle,Sandwiches,Chicken Panini,1,8.75,8.75,Card,Y
+TR_10012,2023-01-16,14:30:00,7,Austin,Bakery,Almond Croissant,1,4.5,4.5,Cash,N
+TR_10013,2023-01-17,08:00:00,34,Denver,Coffee,Espresso,1,2.75,2.75,Card,Y
+TR_10014,2023-01-17,09:45:00,18,Atlanta,Bakery,Cinnamon Roll,1,5.25,5.25,Mobile App,Y
+TR_10015,2023-01-17,11:30:00,23,Boston,Salads,Grilled Chicken Salad,1,9.5,9.5,Card,Y
+TR_10016,2023-01-17,13:15:00,41,Seattle,Tea,Herbal Tea,1,3.25,3.25,Cash,N
+TR_10017,2023-01-17,15:00:00,5,Austin,Coffee,Macchiato,1,4.0,4.0,Card,Y
+TR_10018,2023-01-18,07:30:00,29,Denver,Bakery,Bagel with Cream Cheese,1,3.75,3.75,Mobile App,Y
+TR_10019,2023-01-18,10:00:00,16,Atlanta,Sandwiches,BLT,1,7.25,7.25,Card,N
+TR_10020,2023-01-18,12:00:00,12,Seattle,Coffee,Flat White,1,4.5,4.5,Card,Y
+TR_10021,2023-01-18,14:00:00,7,Austin,Salads,Quinoa Salad,1,8.25,8.25,Cash,N
+TR_10022,2023-01-19,08:45:00,34,Denver,Bakery,Scone,1,3.5,3.5,Card,Y
+TR_10023,2023-01-19,11:15:00,18,Atlanta,Coffee,Caramel Latte,1,5.25,5.25,Mobile App,Y
+TR_10024,2023-01-19,13:45:00,23,Boston,Sandwiches,Italian Sub,1,9.25,9.25,Card,Y
+TR_10025,2023-01-19,16:30:00,41,Seattle,Tea,Iced Tea,1,3.75,3.75,Cash,N
+TR_10026,2023-01-20,07:15:00,5,Austin,Bakery,Chocolate Chip Cookie,2,2.5,5.0,Card,Y
+TR_10027,2023-01-20,09:30:00,29,Denver,Coffee,Irish Coffee,1,6.5,6.5,Mobile App,Y
+TR_10028,2023-01-20,12:45:00,16,Atlanta,Sandwiches,Ham & Cheese,1,7.5,7.5,Card,N
+TR_10029,2023-01-20,15:15:00,12,Seattle,Salads,Caprese Salad,1,8.75,8.75,Card,Y
+TR_10030,2023-01-21,10:00:00,7,Austin,Coffee,Cold Brew,1,4.75,4.75,Cash,N
+TR_10031,2023-01-21,12:30:00,34,Denver,Bakery,Brownie,1,4.25,4.25,Card,Y
+TR_10032,2023-01-21,14:45:00,18,Atlanta,Tea,Matcha Latte,1,5.5,5.5,Mobile App,Y
+TR_10033,2023-01-21,17:00:00,23,Boston,Coffee,American,1,2.75,2.75,Card,Y
+TR_10034,2023-01-22,08:30:00,41,Seattle,Sandwiches,Tuna Melt,1,8.25,8.25,Cash,N
+TR_10035,2023-01-22,11:00:00,5,Austin,Bakery,Apple Turnover,1,4.0,4.0,Card,Y
+TR_10036,2023-01-22,13:30:00,29,Denver,Salads,Greek Salad,1,8.5,8.5,Mobile App,Y
+TR_10037,2023-01-22,16:00:00,16,Atlanta,Coffee,Mocha,1,5.25,5.25,Card,N
+TR_10038,2023-01-23,07:45:00,12,Seattle,Bakery,Pumpkin Bread,1,4.75,4.75,Card,Y
+TR_10039,2023-01-23,10:15:00,7,Austin,Sandwiches,Roast Beef,1,9.25,9.25,Cash,N
+TR_10040,2023-01-23,13:00:00,34,Denver,Tea,Black Tea,1,3.0,3.0,Card,Y
+TR_10041,2023-01-23,15:30:00,18,Atlanta,Bakery,Lemon Bar,1,3.75,3.75,Mobile App,Y
+TR_10042,2023-01-24,08:00:00,23,Boston,Coffee,Iced Coffee,1,3.75,3.75,Card,Y
+TR_10043,2023-01-24,11:45:00,41,Seattle,Salads,Spinach Salad,1,7.75,7.75,Cash,N
+TR_10044,2023-01-24,14:15:00,5,Austin,Coffee,Cortado,1,3.5,3.5,Card,Y
+TR_10045,2023-01-24,17:00:00,29,Denver,Bakery,Banana Bread,1,4.25,4.25,Mobile App,Y
+TR_10046,2023-01-25,09:30:00,16,Atlanta,Sandwiches,Chicken Caesar Wrap,1,8.75,8.75,Card,N
+TR_10047,2023-01-25,12:15:00,12,Seattle,Coffee,Hazelnut Latte,1,5.0,5.0,Card,Y
+TR_10048,2023-01-25,15:00:00,7,Austin,Tea,Peppermint Tea,1,3.25,3.25,Cash,N
+TR_10049,2023-01-26,07:30:00,34,Denver,Sandwiches,Club Sandwich,1,9.5,9.5,Card,Y
+TR_10050,2023-01-26,10:00:00,18,Atlanta,Bakery,Chocolate Eclair,1,5.5,5.5,Mobile App,Y
