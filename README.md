@@ -78,11 +78,10 @@ Cleaned data was exported for Tableau analysis.
 - **Tableau:** Dashboard design & KPI analysis
 - **GitHub:** Version control and portfolio hosting
 
-<img width="2398" height="1598" alt="Cafe Sales Dashboard" src="https://github.com/user-attachments/assets/e86ea705-e337-4fd0-9e1a-0f4fb3bcabc8"/>
 ---
 
 ### Dashboard Preview
-![Dashboard Preview](<img width="2398" height="1598" alt="Cafe Sales Dashboard" src="https://github.com/user-attachments/assets/e86ea705-e337-4fd0-9e1a-0f4fb3bcabc8"/>)
+<img width="2398" height="1598" alt="Cafe Sales Dashboard" src="https://github.com/user-attachments/assets/e86ea705-e337-4fd0-9e1a-0f4fb3bcabc8"/>
 
 ---
 
